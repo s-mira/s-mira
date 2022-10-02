@@ -1,5 +1,5 @@
 Hi, I’m Miranda!
-I’m currently a senior year studying natural sciences at the University of Pennsylvania.
+I’m currently a senior studying natural sciences at the University of Pennsylvania.
 Over the past year, I've utilized online resources to learn Python, SQL, HTML/CSS/JS, and Swift.
 Here I'll be sharing projects I've recently been working on.
 Work in progress!
